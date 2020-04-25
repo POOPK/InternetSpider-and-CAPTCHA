@@ -1,6 +1,5 @@
 # A Spider for all the articles of jianhsu.com
 
-#-
 
 It based on Scrapy and Selenium(for JavaScript).
 
